@@ -17,7 +17,7 @@ Each notebook is associated with one of those kaggle competitions, and each desc
 ### Requirements
 
 * Python 3.13 (recommended)
-* numpy 2.1.3
+* numpy 1.26.4 (recommended, might cause issues with seaborn with )
 * matplotlib 3.9.2
 * seaborn 0.13.2
 * folium 0.1.5
