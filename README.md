@@ -24,6 +24,12 @@ Each notebook is associated with one of those kaggle competitions, and each desc
 * scikit-learn 1.5.2
 * xgboost 2.1.2
 
+You can install all the necesseray libraries using the following command :
+
+'''
+    pip install -r requirements.txt
+'''
+
 ### Project Structure
 
 - Data/
