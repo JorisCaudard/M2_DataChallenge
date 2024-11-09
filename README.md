@@ -26,9 +26,9 @@ Each notebook is associated with one of those kaggle competitions, and each desc
 
 You can install all the necesseray libraries using the following command :
 
-'''
-    pip install -r requirements.txt
-'''
+```
+pip install -r requirements.txt
+```
 
 ### Project Structure
 
